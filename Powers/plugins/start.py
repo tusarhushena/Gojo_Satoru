@@ -107,14 +107,15 @@ async def start(c: Gojo, m: Message):
                 
         try:
             cpt = f"""
-Hey [{m.from_user.first_name}](http://t.me/{m.from_user.username})! I am Gojo ✨.
+ʜᴇʏ [{m.from_user.first_name}](http://t.me/{m.from_user.username})!
+ɪ ᴀᴍ ＧＯＪＯ ✨.
 💠 ɪ'ᴍ ᴀ Aɴɪᴍᴇ ᴛʜᴇᴍᴇᴅ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ᴀɴᴅ ᴠᴄ ᴘʟᴀʏᴇʀ ʙᴏᴛ. 
 
 🕸  Iᴛ ʜᴀs ᴀʟʟ ᴏғ ᴛʜᴇ ᴀᴅᴠᴀɴᴄᴇ ғᴇᴀᴛᴜʀᴇs ᴛʜᴀᴛ ᴄᴀɴ ʜᴇʟᴘ ᴍᴀɪɴᴛᴀɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴇᴀsy ᴀɴᴅ ᴄᴏᴍᴇs ᴡɪᴛʜ ᴀᴅᴅɪᴛɪᴏɴᴀʟ ᴠᴄ ᴘʟᴀʏᴇʀ sʏsᴛᴇᴍ, ᴡɪᴛʜ ᴛʜɪs ʏᴏᴜ ᴄᴀɴ ᴘʟᴀʏ ʟᴀɢ ғʀᴇᴇ ᴀᴜᴅɪᴏ ᴀɴᴅ ᴠɪᴅᴇᴏ ᴛʀᴀᴄᴋ Jᴜsᴛ ʟɪᴋᴇ ᴀ ᴍᴜsɪᴄ ʙᴏᴛ ! 
 
-Hit /help to find out more about how to use me in my full potential!
+ʜɪᴛ /help ᴛᴏ ғɪɴᴅ ᴏᴜᴛ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ ɪɴ ᴍʏ ғᴜʟʟ ᴘᴏᴛᴇɴᴛɪᴀʟ!
 
-Join my [News Channel](https://t.me/gojo_bot_update) to get information on all the latest updates."""
+ᴊᴏɪɴ ᴍʏ [Ｎｅｗｓ Ｃｈａｎｎｅｌ](https://t.me/gojo_bot_update)ᴛᴏ ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴏɴ ᴀʟʟ ᴛʜᴇ ʟᴀᴛᴇsᴛ ᴜᴘᴅᴀᴛᴇs."""
 
             await m.reply_photo(
                 photo=str(choice(StartPic)),
@@ -149,7 +150,8 @@ Join my [News Channel](https://t.me/gojo_bot_update) to get information on all t
 async def start_back(_, q: CallbackQuery):
     try:
         cpt = f"""
-Hey [{q.from_user.first_name}](http://t.me/{q.from_user.username})! I am ＧＯＪＯ ✨.
+ʜᴇʏ [{q.from_user.first_name}](http://t.me/{q.from_user.username})!
+ɪ ᴀᴍ ＧＯＪＯ ✨.
 💠 ᴀ Aɴɪᴍᴇ ᴛʜᴇᴍᴇᴅ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ᴀɴᴅ ᴠᴄ ᴘʟᴀʏᴇʀ ʙᴏᴛ. 
 
 🕸  Iᴛ ʜᴀs ᴀʟʟ ᴏғ ᴛʜᴇ ᴀᴅᴠᴀɴᴄᴇ ғᴇᴀᴛᴜʀᴇs ᴛʜᴀᴛ ᴄᴀɴ ʜᴇʟᴘ ᴍᴀɪɴᴛᴀɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴇᴀsy ᴀɴᴅ ᴄᴏᴍᴇs ᴡɪᴛʜ ᴀᴅᴅɪᴛɪᴏɴᴀʟ ᴠᴄ ᴘʟᴀʏᴇʀ sʏsᴛᴇᴍ, ᴡɪᴛʜ ᴛʜɪs ʏᴏᴜ ᴄᴀɴ ᴘʟᴀʏ ʟᴀɢ ғʀᴇᴇ ᴀᴜᴅɪᴏ ᴀɴᴅ ᴠɪᴅᴇᴏ ᴛʀᴀᴄᴋ Jᴜsᴛ ʟɪᴋᴇ ᴀ ᴍᴜsɪᴄ ʙᴏᴛ !
