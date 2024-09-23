@@ -60,22 +60,22 @@ class Development:
 
     # Fill in these vars if you want to use Traditional method of deploying
     LOGGER = True
-    BOT_TOKEN = "YOUR BOT_TOKEN"
-    API_ID = 12345  # Your APP_ID from Telegram
-    API_HASH = "YOUR API HASH"  # Your APP_HASH from Telegram
-    OWNER_ID = 1344569458  # Your telegram user id defult to mine
-    MESSAGE_DUMP = -100845454887  # Your Private Group ID for logs
-    DEV_USERS = []
+    BOT_TOKEN = "7916855567:AAFE1o96ao_KoEbRNIt-vHQUUDRVN2elZHo"
+    API_ID = 24620300  # Your APP_ID from Telegram
+    API_HASH = "9a098f01aa56c836f2e34aee4b7ef963"  # Your APP_HASH from Telegram
+    OWNER_ID = 6848223695  # Your telegram user id defult to mine
+    MESSAGE_DUMP = -1002453699732  # Your Private Group ID for logs
+    DEV_USERS = [7186437295]
     SUDO_USERS = []
     WHITELIST_USERS = []
-    DB_URI = ""  # Your mongo DB URI
-    DB_NAME = ""  # Your DB name
+    DB_URI = "mongodb+srv://botmaker9675208:botmaker9675208@cluster0.sc9mq8b.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"  # Your mongo DB URI
+    DB_NAME = "botmaker"  # Your DB name
     NO_LOAD = []
     GENIUS_API_TOKEN = ""
     RMBG_API = ""
     PREFIX_HANDLER = ["!", "/","$"]
-    SUPPORT_GROUP = "SUPPORT_GROUP"
-    SUPPORT_CHANNEL = "SUPPORT_CHANNEL"
+    SUPPORT_GROUP = "nothing_bots_support"
+    SUPPORT_CHANNEL = "gojo_bot_update"
     VERSION = "VERSION"
     TIME_ZONE = 'Asia/Kolkata'
     BDB_URI = ""
