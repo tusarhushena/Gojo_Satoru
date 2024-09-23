@@ -49,10 +49,10 @@ class Config:
     SUPPORT_CHANNEL = config("SUPPORT_CHANNEL", default="gojo_bots_network")
     WORKERS = int(config("WORKERS", default=16))
     TIME_ZONE = config("TIME_ZONE",default='Asia/Kolkata')
-    BOT_USERNAME = ""
-    BOT_ID = ""
-    BOT_NAME = ""
-    owner_username = ""
+    BOT_USERNAME = "gojo_x_management_bot"
+    BOT_ID = "7916855567"
+    BOT_NAME = "Gojo"
+    owner_username = "its_damiann"
 
 
 class Development:
@@ -76,7 +76,7 @@ class Development:
     PREFIX_HANDLER = ["!", "/","$"]
     SUPPORT_GROUP = "nothing_bots_support"
     SUPPORT_CHANNEL = "gojo_bot_update"
-    VERSION = "VERSION"
+    VERSION = "21.1"
     TIME_ZONE = 'Asia/Kolkata'
     BDB_URI = ""
     WORKERS = 8
