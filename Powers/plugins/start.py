@@ -108,7 +108,12 @@ async def start(c: Gojo, m: Message):
         try:
             cpt = f"""
 Hey [{m.from_user.first_name}](http://t.me/{m.from_user.username})! I am Gojo ✨.
-I'm here to help you manage your group(s)!
+💠 ɪ'ᴍ ᴀ Aɴɪᴍᴇ ᴛʜᴇᴍᴇᴅ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ᴀɴᴅ ᴠᴄ ᴘʟᴀʏᴇʀ ʙᴏᴛ. 
+
+🕸  Iᴛ ʜᴀs ᴀʟʟ ᴏғ ᴛʜᴇ ᴀᴅᴠᴀɴᴄᴇ ғᴇᴀᴛᴜʀᴇs ᴛʜᴀᴛ ᴄᴀɴ ʜᴇʟᴘ ᴍᴀɪɴᴛᴀɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴇᴀsy ᴀɴᴅ ᴄᴏᴍᴇs ᴡɪᴛʜ ᴀᴅᴅɪᴛɪᴏɴᴀʟ ᴠᴄ ᴘʟᴀʏᴇʀ sʏsᴛᴇᴍ, ᴡɪᴛʜ ᴛʜɪs ʏᴏᴜ ᴄᴀɴ ᴘʟᴀʏ ʟᴀɢ ғʀᴇᴇ ᴀᴜᴅɪᴏ ᴀɴᴅ ᴠɪᴅᴇᴏ ᴛʀᴀᴄᴋ Jᴜsᴛ ʟɪᴋᴇ ᴀ ᴍᴜsɪᴄ ʙᴏᴛ . 
+
+✖️ Nᴏ ᴄᴏɴᴄᴇʀɴ ғᴏʀ ᴅᴏᴡɴᴛɪᴍᴇ Iɴ ᴏʀᴅᴇʀ ᴛᴏ ᴘᴇʀғᴏʀᴍ ʙᴇᴛᴛᴇʀ ᴀɴᴅ ʀᴇsᴘᴏɴᴅ ғᴀsᴛᴇʀ, ɪᴛ ɪs ʜᴏsᴛᴇᴅ ᴏɴ ᴛʜᴇ ǫᴜɪᴄᴋᴇsᴛ sᴇʀᴠᴇʀ.!
+
 Hit /help to find out more about how to use me in my full potential!
 
 Join my [News Channel](https://t.me/gojo_bot_update) to get information on all the latest updates."""
@@ -147,7 +152,11 @@ async def start_back(_, q: CallbackQuery):
     try:
         cpt = f"""
 Hey [{q.from_user.first_name}](http://t.me/{q.from_user.username})! I am Gojo ✨.
-I'm here to help you manage your group(s)!
+💠 ɪ'ᴍ ᴀ Aɴɪᴍᴇ ᴛʜᴇᴍᴇᴅ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ᴀɴᴅ ᴠᴄ ᴘʟᴀʏᴇʀ ʙᴏᴛ. 
+
+🕸  Iᴛ ʜᴀs ᴀʟʟ ᴏғ ᴛʜᴇ ᴀᴅᴠᴀɴᴄᴇ ғᴇᴀᴛᴜʀᴇs ᴛʜᴀᴛ ᴄᴀɴ ʜᴇʟᴘ ᴍᴀɪɴᴛᴀɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴇᴀsy ᴀɴᴅ ᴄᴏᴍᴇs ᴡɪᴛʜ ᴀᴅᴅɪᴛɪᴏɴᴀʟ ᴠᴄ ᴘʟᴀʏᴇʀ sʏsᴛᴇᴍ, ᴡɪᴛʜ ᴛʜɪs ʏᴏᴜ ᴄᴀɴ ᴘʟᴀʏ ʟᴀɢ ғʀᴇᴇ ᴀᴜᴅɪᴏ ᴀɴᴅ ᴠɪᴅᴇᴏ ᴛʀᴀᴄᴋ Jᴜsᴛ ʟɪᴋᴇ ᴀ ᴍᴜsɪᴄ ʙᴏᴛ . 
+
+✖️ Nᴏ ᴄᴏɴᴄᴇʀɴ ғᴏʀ ᴅᴏᴡɴᴛɪᴍᴇ Iɴ ᴏʀᴅᴇʀ ᴛᴏ ᴘᴇʀғᴏʀᴍ ʙᴇᴛᴛᴇʀ ᴀɴᴅ ʀᴇsᴘᴏɴᴅ ғᴀsᴛᴇʀ, ɪᴛ ɪs ʜᴏsᴛᴇᴅ ᴏɴ ᴛʜᴇ ǫᴜɪᴄᴋᴇsᴛ sᴇʀᴠᴇʀ.
 Hit /help to find out more about how to use me in my full potential!
 
 Join my [News Channel](http://t.me/gojo_bot_update) to get information on all the latest updates."""
