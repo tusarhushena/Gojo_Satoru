@@ -60,20 +60,20 @@ async def gen_start_kb(q: Message or CallbackQuery):
             ],
             [
                 (
-                    "🗃️ ᴜᴘᴅᴀᴛᴇs",
+                    "ᴍʏ ᴍᴀsᴛᴇʀ ɪɴғᴏ🍷",
                     "https://t.me/about_tosuu",
                     "url",
                 ),
                 (
-                    "Owner ❤️",
+                    "ᴍʏ ᴍᴀsᴛᴇʀ",
                     Config.OWNER_ID,
                     "user_id",
                 ),
             ],
             [
                 (
-                    "sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ",
-                    "https://t.me/nothing_bots_support",
+                    "ᴀɴɪᴍᴇ ɢʀᴏᴜᴘ",
+                    "https://t.me/anime_x_group",
                     "url",
                 ),
                 (
