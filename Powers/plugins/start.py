@@ -156,9 +156,9 @@ async def start_back(_, q: CallbackQuery):
 
 🕸  Iᴛ ʜᴀs ᴀʟʟ ᴏғ ᴛʜᴇ ᴀᴅᴠᴀɴᴄᴇ ғᴇᴀᴛᴜʀᴇs ᴛʜᴀᴛ ᴄᴀɴ ʜᴇʟᴘ ᴍᴀɪɴᴛᴀɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴇᴀsy ᴀɴᴅ ᴄᴏᴍᴇs ᴡɪᴛʜ ᴀᴅᴅɪᴛɪᴏɴᴀʟ ᴠᴄ ᴘʟᴀʏᴇʀ sʏsᴛᴇᴍ, ᴡɪᴛʜ ᴛʜɪs ʏᴏᴜ ᴄᴀɴ ᴘʟᴀʏ ʟᴀɢ ғʀᴇᴇ ᴀᴜᴅɪᴏ ᴀɴᴅ ᴠɪᴅᴇᴏ ᴛʀᴀᴄᴋ Jᴜsᴛ ʟɪᴋᴇ ᴀ ᴍᴜsɪᴄ ʙᴏᴛ !
 
-Hit /help to find out more about how to use me in my full potential!
+ʜɪᴛ /help ᴛᴏ ғɪɴᴅ ᴏᴜᴛ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ ɪɴ ᴍʏ ғᴜʟʟ ᴘᴏᴛᴇɴᴛɪᴀʟ!
 
-Join my [News Channel](http://t.me/gojo_bot_update) to get information on all the latest updates."""
+ᴊᴏɪɴ ᴍʏ [Ｎｅｗｓ Ｃｈａｎｎｅｌ](http://t.me/gojo_bot_update) ᴛᴏ ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴏɴ ᴀʟʟ ᴛʜᴇ ʟᴀᴛᴇsᴛ ᴜᴘᴅᴀᴛᴇs."""
 
         await q.edit_message_caption(
             caption=cpt,
