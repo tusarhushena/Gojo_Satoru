@@ -1,7 +1,6 @@
 FROM python:3.11.9
-
-WORKDIR /root/Mikobot
-
+RUN  python3 -m pip -U install virtualenv
+RUN  
 COPY . .
 
 RUN apt-get install -y ffmpeg python3-pip curl
