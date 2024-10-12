@@ -37,9 +37,6 @@ class Config:
             default="",
         ).split(None)
     ]
-    GENIUS_API_TOKEN = config("GENIUS_API",default=None)
-    AuDD_API = config("AuDD_API",default=None)
-    RMBG_API = config("RMBG_API",default=None)
     DB_URI = config("DB_URI", default="")
     DB_NAME = config("DB_NAME", default="gojo_satarou")
     BDB_URI = config("BDB_URI",default=None)
@@ -71,8 +68,6 @@ class Development:
     DB_URI = "mongodb+srv://botmaker9675208:botmaker9675208@cluster0.sc9mq8b.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"  # Your mongo DB URI
     DB_NAME = "botmaker"  # Your DB name
     NO_LOAD = []
-    GENIUS_API_TOKEN = ""
-    RMBG_API = ""
     PREFIX_HANDLER = ["!", "/","$"]
     SUPPORT_GROUP = "nothing_bots_support"
     SUPPORT_CHANNEL = "gojo_bot_update"
