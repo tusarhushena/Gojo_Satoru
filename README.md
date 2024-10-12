@@ -87,7 +87,8 @@ The Gojo Satoru is a powerful Group Management bot with awesome plugins and feat
 [![DEPLOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tusarhushena/Gojo_Satoru)
 
 -------
-
+## Deploy on koyeb
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=gojo-satoru&type=git&repository=tusarhushena%2FGojo_Satoru&branch=main&builder=buildpack&run_command=python3+-m+Powers&regions=was&env%5BAPI_HASH%5D=9a098f01aa56c836f2e34aee4b7ef963&env%5BAPI_ID%5D=24620300&env%5BBDB_URI%5D=mongodb%2Bsrv%3A%2F%2Forewauzumaki%3Aorewauzumaki%40cluster0.bmhengh.mongodb.net%2F%3FretryWrites%3Dtrue%26w%3Dmajority%26appName%3DCluster0&env%5BBOT_TOKEN%5D=7916855567%3AAAFE1o96ao_KoEbRNIt-vHQUUDRVN2elZHo&env%5BDB_NAME%5D=snatcherwaifu0925&env%5BDB_URI%5D=mongodb%2Bsrv%3A%2F%2Fsnatcherwaifu0925%3Asnatcherwaifu0925%40cluster0.fft3j.mongodb.net%2F%3FretryWrites%3Dtrue%26w%3Dmajority%26appName%3DCluster0&env%5BDEV_USERS%5D=7186437295&env%5BENV%5D=ANYTHING&env%5BMESSAGE_DUMP%5D=-1002023182491&env%5BPORT%5D=8080&env%5BPREFIX_HANDLER%5D=%21++%2F+%24&env%5BSUDO_USERS%5D=6893043153&env%5BSUPPORT_CHANNEL%5D=gojo_bot_update&env%5BSUPPORT_GROUP%5D=nothing_bots_support&env%5BTIME_ZONE%5D=Asia%2FKolkata&ports=8000%3Bhttp%3B%2F&hc_protocol%5B8000%5D=http)
 ## Deploy To Railway
 [![DEPLOY](https://railway.app/button.svg)](https://railway.app)
 ### How To Deploy On Railway
